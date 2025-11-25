@@ -63,6 +63,4 @@ Amazon Web Services (AWS)
 ### ⚡ Fun Facts
 When I'm not coding, you'll find me staying active with sports and fitness, catching the latest films, traveling to new places, or working on sewing projects!
 
----
 
-💡 *"Building intelligent systems that transform data into actionable insights"*
